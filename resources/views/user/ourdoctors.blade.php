@@ -145,22 +145,7 @@
   @include('user.appointment')
   
 
-  <div class="page-section banner-home bg-image" style="background-image: url(../assets/img/banner-pattern.svg);">
-    <div class="container py-5 py-lg-0">
-      <div class="row align-items-center">
-        <div class="col-lg-4 wow zoomIn">
-          <div class="img-banner d-none d-lg-block">
-            <img src="../assets/img/mobile_app.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-8 wow fadeInRight">
-          <h1 class="font-weight-normal mb-3">Get easy access of all features using One Health Application</h1>
-          <a href="#"><img src="../assets/img/google_play.svg" alt=""></a>
-          <a href="#" class="ml-2"><img src="../assets/img/app_store.svg" alt=""></a>
-        </div>
-      </div>
-    </div>
-  </div> <!-- .banner-home -->
+ 
 
   <footer class="page-footer">
     <div class="container">
@@ -193,9 +178,9 @@
         </div>
         <div class="col-sm-6 col-lg-3 py-3">
           <h5>Contact</h5>
-          <p class="footer-link mt-2">351 Willow Street Franklin, MA 02038</p>
-          <a href="#" class="footer-link">701-573-7582</a>
-          <a href="#" class="footer-link">healthcare@temporary.net</a>
+          <p class="footer-link mt-2">351 Willow Street Franklin, MA 0000</p>
+          <a href="#" class="footer-link">081-3575-6270</a>
+          <a href="#" class="footer-link">myhealthcare@temporary.net.ma</a>
 
           <h5 class="mt-3">Social Media</h5>
           <div class="footer-sosmed mt-3">
@@ -210,7 +195,7 @@
 
       <hr>
 
-      <p id="copyright">Copyright &copy; 2020 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All right reserved</p>
+      <p id="copyright">Copyright &copy; 2020 <a href="#" target="_blank">Mohammed</a>. All right reserved</p>
     </div>
   </footer>
 

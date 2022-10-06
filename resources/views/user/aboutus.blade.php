@@ -184,7 +184,7 @@
       </div>
     </div>
   </div>
-
+<!-- 
   <div class="page-section banner-home bg-image" style="background-image: url(../assets/img/banner-pattern.svg);">
     <div class="container py-5 py-lg-0">
       <div class="row align-items-center">
@@ -200,7 +200,7 @@
         </div>
       </div>
     </div>
-  </div> <!-- .banner-home -->
+  </div>  -->
 
   <footer class="page-footer">
     <div class="container">
@@ -233,9 +233,9 @@
         </div>
         <div class="col-sm-6 col-lg-3 py-3">
           <h5>Contact</h5>
-          <p class="footer-link mt-2">351 Willow Street Franklin, MA 02038</p>
-          <a href="#" class="footer-link">701-573-7582</a>
-          <a href="#" class="footer-link">healthcare@temporary.net</a>
+          <p class="footer-link mt-2">351 Willow Street Franklin, MA 0000</p>
+          <a href="#" class="footer-link">081-3575-6270</a>
+          <a href="#" class="footer-link">myhealthcare@temporary.net.ma</a>
 
           <h5 class="mt-3">Social Media</h5>
           <div class="footer-sosmed mt-3">
@@ -250,7 +250,7 @@
 
       <hr>
 
-      <p id="copyright">Copyright &copy; 2020 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All right reserved</p>
+      <p id="copyright">Copyright &copy; 2020 <a href="#" target="_blank">Mohammed</a>. All right reserved</p>
     </div>
   </footer>
 

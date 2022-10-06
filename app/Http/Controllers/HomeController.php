@@ -112,6 +112,9 @@ class HomeController extends Controller
 
     public function appointment(Request $request){
 
+        if(Auth::id())
+        {
+
         $data = new appointment;
 
         $data->name = $request->name;
@@ -128,13 +131,19 @@ class HomeController extends Controller
 
         $data->status = 'In Progress';
 
-        if(Auth::id()){
+      
         $data->user_id = Auth::user()->id;
-        }
+    
 
         $data->save();
 
+    
+
         return redirect()->back()->with('message', 'You have successfully booked an appointment. We will get back to you soon.');
+
+        }else{
+            return redirect('login');
+        }
 
         
 
